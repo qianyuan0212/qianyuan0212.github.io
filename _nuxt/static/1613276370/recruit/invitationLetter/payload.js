@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/recruit/invitationLetter", {data:[{}],fetch:[],mutations:[]});

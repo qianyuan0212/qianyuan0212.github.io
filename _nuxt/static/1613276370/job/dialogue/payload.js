@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/job/dialogue", {data:[{}],fetch:[],mutations:[]});

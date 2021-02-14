@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/employee/user/password", {data:[{}],fetch:[],mutations:[]});
